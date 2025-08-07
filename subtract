@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+
+    //subtraction of two nos.
+{
+  int a;
+  int b;
+  scanf("%d",&a);
+    scanf("%d",&b);
+    int sub;
+    sub =a-b;
+    printf("%d",sub);
+}
